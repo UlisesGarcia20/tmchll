@@ -1,0 +1,10 @@
+{
+    "name": "mi-proyecto",
+    "private": true,
+    "scripts": {
+        "install": "npm install --prefix frontend",
+        "start": "npm --prefix frontend start",
+        "build:front": "npm run build --prefix frontend",
+        "install:front": "npm install --prefix frontend"
+    }
+}
