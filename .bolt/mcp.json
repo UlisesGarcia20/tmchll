@@ -1,3 +1,7 @@
 {
-  "mcpServers": {}
+  "mcpServers": {
+    "mcp_okd": {
+      "enabled": false
+    }
+  }
 }
