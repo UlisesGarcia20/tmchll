@@ -2,6 +2,9 @@
   "mcpServers": {
     "okd": {
       "enabled": true
+    },
+    "salesforce": {
+      "enabled": false
     }
   }
 }
