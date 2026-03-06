@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "okd": {
-      "enabled": false
+      "enabled": true
     }
   }
 }
