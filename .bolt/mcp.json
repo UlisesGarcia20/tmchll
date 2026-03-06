@@ -2,9 +2,6 @@
   "mcpServers": {
     "okd": {
       "enabled": true
-    },
-    "sf": {
-      "enabled": false
     }
   }
 }
