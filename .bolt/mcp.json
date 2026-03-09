@@ -1,10 +1,10 @@
 {
   "mcpServers": {
     "okd": {
-      "enabled": true
+      "enabled": false
     },
     "salesforce": {
-      "enabled": true
+      "enabled": false
     }
   }
 }
