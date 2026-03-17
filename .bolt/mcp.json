@@ -1,9 +1,6 @@
 {
   "mcpServers": {
-    "okd": {
-      "enabled": false
-    },
-    "salesforce": {
+    "suitecrm": {
       "enabled": false
     }
   }
