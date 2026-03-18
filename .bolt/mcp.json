@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "scrm": {
-      "enabled": false
+      "enabled": true
     }
   }
 }
